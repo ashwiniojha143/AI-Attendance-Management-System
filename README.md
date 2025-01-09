@@ -48,7 +48,7 @@ Exit Application: Closes the application.
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/Gkumar20/Desktop_application.git
+  git clone (https://github.com/ashwiniojha143/AI-Attendance-Management-System)
   cd Desktop_application
   pip install -r requirements.txt
 
@@ -104,22 +104,27 @@ git push origin feature/YourFeature
 ## Authors
 - [@octokatherine](https://www.github.com/octokatherine)
 
-1. Prof. D.K. Ray
+1. Prof. Dr. Ajay Kushwaha
 Role: Project Guide
 
-Description: Prof. D.K. Ray has provided guidance and mentorship for this project, offering expertise and insights into the field of [AI, Computer Vision].
+Description: Prof. Dr. Ajay kushwaha has provided guidance and mentorship for this project, offering expertise and insights into the field of [AI, Computer Vision].
 
-2. Ganesh Kumar
+2. Ashwini Kr. Ojha
 Role: Developer
 
-Description: Ganesh Kumar, an Electronics and Telecommunication student at [BVUCOEP], has contributed to various aspects of the project, including [Deep Learning, Full Stack].
+Description: Ashwini Kr. OJha, an Electronics and Telecommunication student at [BVUCOEP], has contributed to various aspects of the project, including [Deep Learning, Full Stack].
 
-2. Mukesh Kumar Mukhiya
+2. Ankit Raj
 Role: Developer
 
-Description: Mukesh Kumar Mukhiya, also an Electronics and Telecommunication student at [BVUCOEP], has been actively involved in [Full stack , Developer].
+Description: Ankit Raj, also an Electronics and Telecommunication student at [BVUCOEP], has been actively involved in [Full stack , Developer].
 
-3. Shubham Kumar Verma
+3. Ankit Raj
 Role: Developer
 
-Description: Shubham Kumar Verma, an Electronics and Telecommunication student at [BVUCOEP], has contributed significantly to [IOT , Developer].
+Description: Ankit Raj, an Electronics and Telecommunication student at [BVUCOEP], has contributed significantly to [IOT , Developer].
+
+4. Somya Kumari
+Role: Developer
+
+Description: Somya Kumari, an Electronics and Telecommunication student at [BVUCOEP], has contributed significantly to [Database Handling].
