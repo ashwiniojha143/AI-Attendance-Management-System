@@ -109,7 +109,7 @@ Role: Project Guide
 
 Description: Prof. Dr. Ajay kushwaha has provided guidance and mentorship for this project, offering expertise and insights into the field of [AI, Computer Vision].
 
-2. Ashwini Kr. Ojha
+2. Ashwini Ojha
 Role: Developer
 
 Description: Ashwini Kr. OJha, an Electronics and Telecommunication student at [BVUCOEP], has contributed to various aspects of the project, including [Deep Learning, Full Stack].
@@ -128,3 +128,4 @@ Description: Ankit Raj, an Electronics and Telecommunication student at [BVUCOEP
 Role: Developer
 
 Description: Somya Kumari, an Electronics and Telecommunication student at [BVUCOEP], has contributed significantly to [Database Handling].
+
