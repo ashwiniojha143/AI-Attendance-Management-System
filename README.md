@@ -112,7 +112,7 @@ Description: Prof. Dr. Ajay kushwaha has provided guidance and mentorship for th
 2. Ashwini Ojha
 Role: Developer
 
-Description: Ashwini Kr. OJha, an Electronics and Telecommunication student at [BVUCOEP], has contributed to various aspects of the project, including [Deep Learning, Full Stack].
+Description: Ashwini Kr. OJha, an Electronics and Telecommunication student at [BVUCOEP], has contributed to various aspects of the project, including [Deep Learning, Full Stack]. I am using Git in this project as learning way.
 
 2. Ankit Raj
 Role: Developer
@@ -128,4 +128,5 @@ Description: Ankit Raj, an Electronics and Telecommunication student at [BVUCOEP
 Role: Developer
 
 Description: Somya Kumari, an Electronics and Telecommunication student at [BVUCOEP], has contributed significantly to [Database Handling].
+
 
